@@ -1,78 +1,78 @@
-@import url(first-project/vendor/normalize.css);
-@import url(first-project/blocks/rotation/rotation.css);
-@import url(first-project/blocks/page/page.css);
+@import url(https://archi-ufanet.github.io/first-project/vendor/normalize.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/rotation/rotation.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/page/page.css);
 
-@import url(first-project/blocks/logo/_place/logo_place_header.css);
-@import url(first-project/blocks/logo/_place/logo_place_footer.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/logo/_place/logo_place_header.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/logo/_place/logo_place_footer.css);
 
-@import url(first-project/first-project/first-project/blocks/section-title/section-title.css);
-@import url(first-project/first-project/blocks/section-subtitle/section-subtitle.css);
+@import url(https://archi-ufanet.github.io/first-project/first-project/first-project/blocks/section-title/section-title.css);
+@import url(https://archi-ufanet.github.io/first-project/first-project/blocks/section-subtitle/section-subtitle.css);
 
-@import url(first-project/blocks/header/header.css);
-@import url(first-project/blocks/header/__title/header__title.css);
-@import url(first-project/blocks/header/__subtitle/header__subtitle.css);
-@import url(first-project/blocks/header/__link/header__link.css);
-@import url(first-project/first-project/blocks/header/__main-illustration/header__main-illustration.css);
-@import url(first-project/blocks/header/__square-pic/header__square-pic.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/header/header.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/header/__title/header__title.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/header/__subtitle/header__subtitle.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/header/__link/header__link.css);
+@import url(https://archi-ufanet.github.io/first-project/first-project/blocks/header/__main-illustration/header__main-illustration.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/header/__square-pic/header__square-pic.css);
 
-@import url(first-project/blocks/description/description.css);
-@import url(first-project/blocks/two-columns/__brief/two-columns__brief.css);
-@import url(first-project/blocks/two-columns/__main-text/two-columns__main-text.css);
-@import url(first-project/blocks/two-columns/two-columns.css);
-@import url(first-project/blocks/two-columns/__paragraph/two-columns__paragraph.css);
-@import url(first-project/blocks/two-columns/__span-accent/two-columns__span-accent.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/description/description.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/two-columns/__brief/two-columns__brief.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/two-columns/__main-text/two-columns__main-text.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/two-columns/two-columns.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/two-columns/__paragraph/two-columns__paragraph.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/two-columns/__span-accent/two-columns__span-accent.css);
 
-@import url(first-project/blocks/techniques/techniques.css);
-@import url(first-project/blocks/cards/cards.css);
-@import url(first-project/blocks/cards/__description/cards__description.css);
-@import url(first-project/blocks/cards/__image/cards__image.css);
-@import url(first-project/blocks/cards/__item/cards__item.css);
-@import url(first-project/blocks/cards/__title/cards__title.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/techniques/techniques.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/cards/cards.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/cards/__description/cards__description.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/cards/__image/cards__image.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/cards/__item/cards__item.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/cards/__title/cards__title.css);
 
-@import url(first-project/blocks/video/video.css);
-@import url(first-project/blocks/video/__iframes/video__iframes.css);
-@import url(first-project/blocks/video/__iframe/video__iframe.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/video/video.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/video/__iframes/video__iframes.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/video/__iframe/video__iframe.css);
 
-@import url(first-project/blocks/oakley/oakley.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/oakley/oakley.css);
 
-@import url(first-project/blocks/feynman/feynman.css);
-@import url(first-project/blocks/feynman/__link/feynman__link.css);
-@import url(first-project/blocks/feynman/__subtitle/feynman__subtitle.css);
-@import url(first-project/blocks/feynman/__title/feynman__title.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/feynman/feynman.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/feynman/__link/feynman__link.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/feynman/__subtitle/feynman__subtitle.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/feynman/__title/feynman__title.css);
 
-@import url(first-project/blocks/digits/digits.css);
-@import url(first-project/blocks/table/table.css);
-@import url(first-project/blocks/table/__heading/table__heading.css);
-@import url(first-project/blocks/table/__cell/table__cell.css);
-@import url(first-project/blocks/table/__text/table__text.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/digits/digits.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/table/table.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/table/__heading/table__heading.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/table/__cell/table__cell.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/table/__text/table__text.css);
 
-@import url(first-project/blocks/khan/khan.css);
-@import url(first-project/blocks/khan/__author/khan__author.css);
-@import url(first-project/blocks/khan/__book-container/khan__book-container.css);
-@import url(first-project/blocks/khan/__book-pic/khan__book-pic.css);
-@import url(first-project/blocks/khan/__container/khan__container.css);
-@import url(first-project/blocks/khan/__quote-author/khan__quote-author.css);
-@import url(first-project/blocks/khan/__quote/khan__quote.css);
-@import url(first-project/blocks/khan/__title/khan__title.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/khan/khan.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/khan/__author/khan__author.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/khan/__book-container/khan__book-container.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/khan/__book-pic/khan__book-pic.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/khan/__container/khan__container.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/khan/__quote-author/khan__quote-author.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/khan/__quote/khan__quote.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/khan/__title/khan__title.css);
 
-@import url(first-project/blocks/kaufman/kaufman.css);
-@import url(first-project/blocks/kaufman/__triangle/kaufman__triangle.css);
-@import url(first-project/blocks/table/_theme/table_theme_dark.css);
-@import url(first-project/blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
-@import url(first-project/blocks/section-title/_theme/section-title_theme_dark.css);
-@import url(first-project/blocks/table/__cell/_theme/table__cell_theme_dark.css);
-@import url(first-project/blocks/table/__heading/_theme/table__heading_theme_dark.css);
-@import url(first-project/blocks/table/__text/_theme/table__text_theme_dark.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/kaufman/kaufman.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/kaufman/__triangle/kaufman__triangle.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/table/_theme/table_theme_dark.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/section-title/_theme/section-title_theme_dark.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/table/__cell/_theme/table__cell_theme_dark.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/table/__heading/_theme/table__heading_theme_dark.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/table/__text/_theme/table__text_theme_dark.css);
 
-@import url(first-project/blocks/resources/resources.css);
-@import url(first-project/blocks/resources/__logo-zone/resources__logo-zone.css);
-@import url(first-project/blocks/resources/__logo/resources__logo.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/resources/resources.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/resources/__logo-zone/resources__logo-zone.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/resources/__logo/resources__logo.css);
 
-@import url(first-project/blocks/footer/footer.css);
-@import url(first-project/blocks/footer/__columns/footer__columns.css);
-@import url(first-project/blocks/footer/__author/footer__author.css);
-@import url(first-project/blocks/footer/__column-heading/footer__column-heading.css);
-@import url(first-project/blocks/footer/__column-links/footer__column-links.css);
-@import url(first-project/blocks/footer/__column-link/footer__column-link.css);
-@import url(first-project/blocks/footer/__column/_content/footer__column_content_copyright.css);
-@import url(first-project/blocks/footer/__social-icon/footer__social-icon.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/footer/footer.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/footer/__columns/footer__columns.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/footer/__author/footer__author.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/footer/__column-heading/footer__column-heading.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/footer/__column-links/footer__column-links.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/footer/__column-link/footer__column-link.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/footer/__column/_content/footer__column_content_copyright.css);
+@import url(https://archi-ufanet.github.io/first-project/blocks/footer/__social-icon/footer__social-icon.css);
